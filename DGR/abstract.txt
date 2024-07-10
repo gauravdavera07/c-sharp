@@ -1,0 +1,99 @@
+Software Requirements: –
+
+Front End: HTML5, CSS3, Bootstrap
+Back End: PHP, MYSQL
+Control End: Angular Java Script
+Android Tools:
+
+ IDE: Android Studio
+Android Emulator
+XAMPP 8.1 – 64 bit
+PHP Tools:
+
+XAMPP 8.1 – 64 bit
+Modules List
+
+1) Administrator:
+
+Manage Department
+Manage Student
+Manage HOD & Staff
+Manage Employee
+View  Leave Report
+Leave Allotment
+(2) Student:
+
+Login
+My Profile
+Apply For Leave
+View Leave Status
+View Leave Balance
+(3) HOD & Faculty:
+
+Login
+View Leave Status
+Approve Leave
+Leave Approval
+Logout
+Module Description:
+
+Admin
+
+Login
+In login module the admin can login to the application with the master login details. Admin can maintain the all student details.
+
+Manage Department
+Admin can manage the department like department faculty details and student details based on personal details. And then over all student and faculty attendance details also.
+
+Manage student
+Admin can manage the student details like student name, register number, department, class details and other personal details also to be included and managed.
+
+Manage HOD & Staff
+Admin can manage the every department staff details like each department have HOD of department and other staff of their departments. Then admin can insert the all HOD of department personal details and other staffs details also.
+
+Manage Employee
+Admin can manage all employee details like employee name, department, id number, etc. then all manage the all details from admin.
+
+View Leave Report
+Admin can view a leave report from the student and faculty. and maintain all   reports. Who are maximum days take leave they are listed in leave report.
+
+Leave Allotment
+Admin can create a leave allotment for all students and facilities from the allotment admin can listed the leave students and faculty.
+
+Logout
+Admin will manage all details then the admin will terminate the connection.
+
+Student
+
+Register
+Student‘s main function of our proposed system is registration, in order to register with the unique application details such as name; password, email, place and time are required.
+
+Login
+The main activities in the application are the user login page for user. The other modules are followed by this login page. This module records only user and password of the user.
+
+My profile
+Student once login the page, student will manage the their profile details like students name, register number, mobile number, address, etc. it all details student has to managed or updated.
+
+Apply Leave
+Student can login the page, if they want to take leave means students will apply for the leave before the ideal of leave day.
+
+View leave status
+Students once can apply for leave. This module is used to students can view their leave is approval or not. Students send the leave form to the head of the department through online. It will show the balance leave and attendance percentage of the semester. The report generation will alert the students are eligible for semester exam or not.
+
+View Leave Balance
+
+Students can view a student’s leave applying list and verifying the available day of remaining take leave days or else balancing the leave days for attendance percentage.
+
+HOD & Faculty:
+
+Login
+In login module the HOD or faculty can login to the application with the master login details. HOD or faculty can maintain the all student details.
+
+View Leave Status
+HOD and faculty can view a leave status from the students leave and updated all leave status.
+
+Leave Approval
+HOD and faculty can view a leave form from the students if the leave form are valid means HOD or faculty can approve the leave for student.
+
+Logout
+Student will manage all details then the admin will terminate the connection.
